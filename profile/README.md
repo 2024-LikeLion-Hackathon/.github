@@ -1,6 +1,6 @@
   <div align=center>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stick&size=60&duration=6000&pause=1000&color=E9E9E9&center=true&vCenter=true&random=false&width=1000&height=150&lines=Emolog+(+Emotion+%2B+log+)+%F0%9F%93%92%E2%9C%8D%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stick&size=60&duration=6000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=1000&height=150&lines=Emolog+(+Emotion+%2B+log+)+%F0%9F%93%92%E2%9C%8D%EF%B8%8F)](https://git.io/typing-svg)
     
   </div>
   <div align=center>
