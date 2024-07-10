@@ -1,11 +1,14 @@
 # PROJECT
-  <div align=center>
+  <div align=right>  
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stick&size=60&duration=6000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=1000&height=150&lines=Emolog+(+Emotion+%2B+log+)+%F0%9F%93%92%E2%9C%8D%EF%B8%8F)](https://git.io/typing-svg)
-    
-  </div>
-  <div align=center>
+<img src="https://github.com/2024-LikeLion-Hackathon/.github/assets/121088189/0e56e3de-e168-4135-9597-13e93c7f1539" width=420 height=140>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stick&duration=4000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=420&height=45&lines=(+Emotion+%F0%9F%99%82%F0%9F%98%AE%F0%9F%98%A1+%2B+log+%F0%9F%93%92%E2%9C%8D%EF%B8%8F+))](https://git.io/typing-svg)
 
+  </div>
+    
+  <div align=left>
+    
   사람들이 ‘**🤍자기감정🤍**’에 솔직해질 수 있는 메모장
   
   인공지능을 통해
